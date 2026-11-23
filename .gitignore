@@ -1,0 +1,14 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Salidas de consola guardadas localmente
+resultados.txt
+
+# Editores / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
